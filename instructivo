@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitácora de Prácticas del Laboratorio de Cómputo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        .header, .footer {
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 100px;
+            vertical-align: middle;
+        }
+        .header div {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="ruta/al/logo-cecyte.png" alt="Logo CECYTE">
+        <img src="ruta/al/logo-educacion.png" alt="Logo Educación">
+        <div>
+            <h1>Bitácora de Prácticas del Laboratorio de Cómputo</h1>
+            <h3>Plantel Acaxochitlán</h3>
+            <p>Encargada del Laboratorio de Cómputo: Ing. María Magdalena Pineda Hernández</p>
+        </div>
+    </div>
+
+    <h2>Nombre de la Actividad: Bitácora de Prácticas del Laboratorio de Cómputo</h2>
+    <h3>Fecha: [Fecha de elaboración]</h3>
+    <h3>Nombre Completo: [Tu Nombre Completo]</h3>
+
+    <h2>Registro de Prácticas</h2>
+    <table>
+        <tr>
+            <th>Fecha</th>
+            <th>Número y Nombre de Práctica</th>
+            <th>Semestre y Grupo</th>
+            <th>Turno</th>
+            <th>Asignatura y/o Submódulo</th>
+            <th>Nombre del Docente</th>
+            <th>Observaciones</th>
+        </tr>
+        <tr>
+            <td>06-feb-24</td>
+            <td>1. Comando básico</td>
+            <td>6° E</td>
+            <td>M</td>
+            <td>Dibujo Técnico</td>
+            <td>Alfredo Cna Utubul</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08-feb-24</td>
+            <td>1. Herramientas digitales</td>
+            <td>2° A</td>
+            <td>M</td>
+            <td>Cultura Digital 2</td>
+            <td>Orlando Hernández E.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08/02/24</td>
+            <td>Herramientas digitales</td>
+            <td>2° C</td>
+            <td>M</td>
+            <td>Cultura Digital 2</td>
+            <td>Ana Luisa Barón A.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12/02/24</td>
+            <td>Discos de botones</td>
+            <td>2° F</td>
+            <td>M</td>
+            <td>NS351. Banda soporte técnico y asistencia a distancia</td>
+            <td>Orlando Hernández E.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12/02/24</td>
+            <td>Herramientas y precauciones</td>
+            <td>6° E</td>
+            <td>M</td>
+            <td>NS351. Instalación de una red LAN</td>
+            <td>Ana Luisa Barón A.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12/04/24</td>
+            <td>La carcasa</td>
+            <td>4° F</td>
+            <td>M</td>
+            <td>NS351. Banda soporte técnico y asistencia presencial</td>
+            <td>Ana Luisa Barón A.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12/06/24</td>
+            <td>Herramienta digital</td>
+            <td>2° B</td>
+            <td>M</td>
+            <td>Cultura digital</td>
+            <td>Alfredo Cna Utubul</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>19/02/24</td>
+            <td>Herramientas y precauciones</td>
+            <td>6° F</td>
+            <td>M</td>
+            <td>NS351. Instalación de una red LAN</td>
+            <td>Ana Luisa Barón A.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15/07/24</td>
+            <td>Ingeniería de herramentales</td>
+            <td>7° A</td>
+            <td>M</td>
+            <td>Cultura digital 2</td>
+            <td>Orlando Hernández E.</td>
+            <td></td>
+        </tr>
+    </table>
+
+    <h2>Partes Faltantes</h2>
+    <ul>
+        <li>Firma del Alumno</li>
+        <li>Firma del Docente</li>
+        <li>Duración de la Práctica</li>
+        <li>Material Utilizado</li>
+        <li>Resultados</li>
+        <li>Observaciones Generales</li>
+    </ul>
+
+    <h2>Instructivo de Llenado</h2>
+    <ol>
+        <li>
+            <strong>Encabezado:</strong>
+            <ul>
+                <li>Completar con los logos y el título correspondiente al documento.</li>
+                <li>Incluir los datos del plantel y la encargada del laboratorio.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Cuerpo del Documento:</strong>
+            <ul>
+                <li><strong>Fecha:</strong> Anotar la fecha en que se realizó la práctica.</li>
+                <li><strong>Número y Nombre de Práctica:</strong> Especificar el número y el nombre de la práctica realizada.</li>
+                <li><strong>Semestre y Grupo:</strong> Indicar el semestre y el grupo al que pertenece el estudiante.</li>
+                <li><strong>Turno:</strong> Mencionar el turno en que se realizó la práctica (matutino, vespertino, etc.).</li>
+                <li><strong>Asignatura y/o Submódulo:</strong> Señalar la asignatura o submódulo correspondiente a la práctica.</li>
+                <li><strong>Nombre del Docente:</strong> Escribir el nombre del docente que supervisó la práctica.</li>
+                <li><strong>Observaciones:</strong> Registrar cualquier observación relevante sobre la práctica realizada.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Pie de Página:</strong>
+            <ul>
+                <li>Verificar que el código del formato esté presente y correcto.</li>
+                <li>Incluir la información de contacto del plantel.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Partes Faltantes:</strong>
+            <ul>
+                <li><strong>Firma del Alumno y Docente:</strong> Agregar espacios al final de la tabla para las firmas.</li>
+                <li><strong>Duración de la Práctica, Material Utilizado, Resultados y Observaciones Generales:</strong> Incluir secciones adicionales en la bitácora para registrar estos datos importantes.</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>Guardado del Documento</h2>
+    <p>
+        Pegue la imagen proporcionada en un archivo de texto, señalando cada una de las partes que la integran.
+        Escriba las partes faltantes y complete el instructivo de llenado.
+        Guarde el documento en formato .docx y envíelo en tiempo y forma.
+    </p>
+
+    <h2>Ejemplo de la Bitácora de Prácticas del Laboratorio de Cómputo</h2>
+    <p><strong>Nombre de la Actividad:</strong> Bitácora de Prácticas del Laboratorio de Cómputo</p>
+    <p><strong>Fecha:</strong> [Fecha de Elaboración]</p>
+    <p><strong>Nombre Completo:</strong> [Tu Nombre Completo]</p>
+    <img src="ruta/a/la/imagen.png" alt="Bitácora">
+
+    <h3>Partes Faltantes:</h3>
+    <ul>
+        <li>Firma del Alumno</li>
+        <li>Firma del Docente</li>
+        <li>Duración de la Práctica</li>
+        <li>Material Utilizado</li>
+        <li>Resultados</li>
+        <li>Observaciones Generales</li>
+    </ul>
+
+    <h3>Instructivo de Llenado:</h3>
+    <p>(Completar con el instructivo detallado arriba)</p>
+</body>
+</html>
